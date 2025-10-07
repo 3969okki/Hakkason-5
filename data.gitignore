@@ -1,11 +1,3 @@
-__pycache__/
-*.pyc
-
-# 環境設定
-.env
-config.json
-
-# OSごとの不要ファイル
-.DS_Store
-Thumbs.db
-
+echo "data.env" >> .gitignore
+git add .gitignore
+git commit -m "Ignore data.env"

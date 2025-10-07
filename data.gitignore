@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# 環境設定
+.env
+config.json
+
+# OSごとの不要ファイル
+.DS_Store
+Thumbs.db
+
+API_TOKEN = 'MTMyMTg2NDkzNTQ0NTM2ODgzMg.Gkesm8.0gSoHoURJ5dHS3RfMHqiEAto5JEMAaecrzbJnY'
